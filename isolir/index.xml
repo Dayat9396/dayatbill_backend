@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pemberitahuan</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background-color: #fef2f2; color: #991b1b; }
+        .container { max-width: 600px; margin: auto; background: #fee2e2; padding: 30px; border-radius: 8px; border: 2px solid #f87171; }
+        h1 { color: #b91c1c; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PERHATIAN</h1>
+        <p>Layanan internet Anda untuk sementara kami isolir.</p>
+        <p>Ini mungkin disebabkan oleh tagihan yang telah melewati jatuh tempo.</p>
+        <p><strong>Silakan hubungi Administrator di nomor: 083117312565</strong></p>
+        <p>Terima kasih.</p>
+        <hr>
+        <p>-- DAYATBILL --</p>
+    </div>
+</body>
+</html>
